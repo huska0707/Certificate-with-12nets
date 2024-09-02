@@ -1,0 +1,7 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "id": "http://localhost:3000/issuer_revocations/1a3a7bf8-6c08-4985-8af9-d4f8a3d6a116.json",
+  "type": "RevocationList",
+  "issuer": "http://localhost:3000/issuer_profiles/6b516f79-919e-4836-9017-ae779254a957.json",
+  "revokedAssertions": []
+}
